@@ -1,0 +1,1 @@
+Cryptographic Techniques using Python Libraries - A versatile system catering to three user roles: doctor, patient, and dean (admin). Established data storage using BIN files for efficient management.
